@@ -12,7 +12,7 @@ Diseñar e implementar un sistema inteligente de pronóstico de ventas que permi
 ## Dataset
 **Descripción:** El dataset es un conjunto de datos utilizado para este proyecto de pronóstico de ventas abarca registros históricos de ventas de diversos productos.
 
-**Link de descarga:**<https://www.kaggle.com/datasets/gauravduttakiit/e-commerce-forecasting-for-sales/data>
+**Link de descarga:**[Enlace dataset](https://www.kaggle.com/datasets/gauravduttakiit/e-commerce-forecasting-for-sales/data) 
 
 ## Modelos
 - Random Forest Classifier (RF)
@@ -23,7 +23,7 @@ Diseñar e implementar un sistema inteligente de pronóstico de ventas que permi
 - DBSCAN
 
   ## Enlaces
-  - **Código:** <https://colab.research.google.com/drive/1_dTk-Bbz5C-Q7qltoTywIIjg85bF3oaF?usp=sharing>
+  - **Código:** [Enlace Colab](https://colab.research.google.com/drive/1_dTk-Bbz5C-Q7qltoTywIIjg85bF3oaF?usp=sharing)
   - 
 
 
