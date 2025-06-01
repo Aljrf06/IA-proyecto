@@ -22,10 +22,10 @@ Diseñar e implementar un sistema inteligente de pronóstico de ventas que permi
 - T-SNE
 - DBSCAN
 
-  ## Enlaces
-  - **Código:** [Enlace Colab](https://colab.research.google.com/drive/1_dTk-Bbz5C-Q7qltoTywIIjg85bF3oaF?usp=sharing)
-  - **Video:**
-  - **Diapositivas:** [Enlace Diapositivas](https://docs.google.com/presentation/d/1Hgk8WAZM0DLHH4OEKLxd7pJr2oKmBILa9jLr-ZeD6hs/edit?usp=sharing)
+## Enlaces
+- **Código:** [Enlace Colab](https://colab.research.google.com/drive/1_dTk-Bbz5C-Q7qltoTywIIjg85bF3oaF?usp=sharing)
+- **Video:**
+- **Diapositivas:** [Enlace Diapositivas](https://docs.google.com/presentation/d/1Hgk8WAZM0DLHH4OEKLxd7pJr2oKmBILa9jLr-ZeD6hs/edit?usp=sharing)
 
 
 
