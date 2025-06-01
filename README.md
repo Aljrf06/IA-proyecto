@@ -1,6 +1,6 @@
 
 # Sistema de Predicción de Ventas
-![Imagen del Sistema de Prediccion de Ventas](SISTEMA DE PREDICCIÓN DE VENTAS (1).png)
+![Imagen del Sistema de Prediccion de Ventas](imagenVentas.png)
 ## Autores
 - Kevin Farith García Chaparro - 2204078
 - Alejandra Rodríguez Forero - 2211923
