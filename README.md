@@ -1,5 +1,5 @@
 
-# Sistema de predicción de ventas
+# Sistema de Predicción de Ventas
 
 ## Autores
 - Kevin Farith García Chaparro - 2204078
