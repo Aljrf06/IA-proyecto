@@ -24,7 +24,7 @@ Diseñar e implementar un sistema inteligente de pronóstico de ventas que permi
 
 ## Enlaces
 - **Código:** [Enlace Colab](https://colab.research.google.com/drive/1_dTk-Bbz5C-Q7qltoTywIIjg85bF3oaF?usp=sharing)
-- **Video:**
+- **Video:** [Enlace Video](https://youtu.be/0iB4x6EgQGI)
 - **Diapositivas:** [Enlace Diapositivas](https://docs.google.com/presentation/d/1Hgk8WAZM0DLHH4OEKLxd7pJr2oKmBILa9jLr-ZeD6hs/edit?usp=sharing)
 
 
